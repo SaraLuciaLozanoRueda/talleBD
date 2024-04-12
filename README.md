@@ -1,8 +1,5 @@
 # Taller BD
 
-![Captura desde 2024-04-12 06-34-34](/home/camper/Imágenes/Capturas de pantalla/Captura desde 2024-04-12 06-34-34.png)
-
-
 
 1. Realice la inserción de los siguientes datos.
 
